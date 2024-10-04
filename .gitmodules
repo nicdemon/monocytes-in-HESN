@@ -1,0 +1,6 @@
+[submodule "results"]
+	path = results
+	url = https://github.com/nicdemon/monocytes-in-HESN-results.git
+[submodule "data"]
+	path = data
+	url = https://github.com/nicdemon/monocytes-in-HESN-data.git
